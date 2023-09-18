@@ -5,10 +5,10 @@ Lake Urmia boundary prediction model based on U-Net
 # intro
 
 ## environment
-1.cuda 9.0
-2.Cudnn 7.6.5
-3.Tensorflow-gpu 1.12
-4.keras 2.2.4(unet-lstm don't need keras)
+1.cuda 9.0;
+2.Cudnn 7.6.5;
+3.Tensorflow-gpu 1.12;
+4.keras 2.2.4(unet-lstm don't need keras);
 
 
 ## Code
